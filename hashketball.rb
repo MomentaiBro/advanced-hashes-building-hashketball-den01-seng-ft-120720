@@ -2,7 +2,7 @@ def game_hash
 hasketball = {
   :home => {
     :team_name => "Brooklyn Nets",
-      :colors => ["",""],
+      :colors => ["Black","White"],
       :players => [
         {:player_name => "Alan Anderson",
          :number => "0",
