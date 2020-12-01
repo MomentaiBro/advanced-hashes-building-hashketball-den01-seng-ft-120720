@@ -20,9 +20,9 @@ hasketball = {
          :points => 12, 
          :rebounds => 12, 
          :assists => 12,
-         :steals => 3,
-         :blocks => 1,
-         :slam_dunks => 15
+         :steals => 12,
+         :blocks => 12,
+         :slam_dunks => 7
         },
         {:player_name => "Brook Lopez",
          :number => 11,
