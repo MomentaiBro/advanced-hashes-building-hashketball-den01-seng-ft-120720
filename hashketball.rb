@@ -14,7 +14,8 @@ hasketball = {
          :blocks => "",
          :slam_dunks => ""
         },
-  ],
+        ]
+  },
   :away =>{
     :team_name => "",
       :colors => ["",""],
